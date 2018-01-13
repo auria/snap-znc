@@ -28,6 +28,7 @@ parts:
     build-packages:
       - automake
       - autoconf
+      - pkg-config
       - libssl-dev
       - libicu-dev
       - zlib1g-dev
